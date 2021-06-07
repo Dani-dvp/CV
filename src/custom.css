@@ -1,0 +1,26 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #e01a76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+body {
+  background-color: rgb(216, 216, 216);
+}
+.container {
+  max-width: 100%;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-size: calc(0.4em + 0.5vw);
+}

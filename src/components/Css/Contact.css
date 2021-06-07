@@ -1,0 +1,8 @@
+.cardWrapper img {
+  max-height: 250px;
+  max-width: 500px;
+}
+
+.cardWrapper {
+  max-width: 30%;
+}

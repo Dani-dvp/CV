@@ -1,0 +1,12 @@
+.ProjectWrap img {
+  max-height: 440px;
+  width: 100%;
+}
+.Card {
+  width: 50%;
+  max-width: 400px;
+}
+
+.ProjectWrap {
+  width: 50%;
+}

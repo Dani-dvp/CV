@@ -1,0 +1,29 @@
+﻿.wrapper {
+  text-align: center;
+  z-index: 1;
+}
+.projects {
+  display: grid;
+  direction: row;
+  grid-auto-flow: column;
+  justify-content: center;
+  justify-self: center;
+  text-align: center;
+}
+
+.jobs {
+  display: grid;
+  direction: row;
+  grid-auto-flow: column;
+  justify-content: center;
+  justify-self: center;
+  text-align: center;
+}
+.Namn {
+  align-content: center;
+  font-size: 82px;
+}
+
+.rounded-circle {
+  max-width: 30vw;
+}
